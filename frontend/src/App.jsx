@@ -987,11 +987,11 @@ const FooterSection = () => {
           <div>
             <h3 className="text-lg font-roboto font-bold mb-6">Product</h3>
             <ul className="space-y-4">
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Landing Page</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Popup Builder</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Web-design</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Content</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Integrations</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Landing Page</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Popup Builder</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Web-design</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Content</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Integrations</a></li>
             </ul>
           </div>
 
@@ -999,12 +999,12 @@ const FooterSection = () => {
           <div>
             <h3 className="text-lg font-roboto font-bold mb-6">Resources</h3>
             <ul className="space-y-4">
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Academy</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Blog</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Themes</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Hosting</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Developers</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Support</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Academy</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Blog</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Themes</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Hosting</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Developers</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Support</a></li>
             </ul>
           </div>
 
@@ -1012,11 +1012,11 @@ const FooterSection = () => {
           <div>
             <h3 className="text-lg font-roboto font-bold mb-6">Company</h3>
             <ul className="space-y-4">
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">About Us</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Careers</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">FAQs</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Teams</a></li>
-              <li><a href="#" className="text-gray-400 hover:text-white transition-colors">Contact Us</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">About Us</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Careers</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">FAQs</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Teams</a></li>
+              <li><a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Contact Us</a></li>
             </ul>
           </div>
         </div>
@@ -1033,11 +1033,11 @@ const FooterSection = () => {
 
           {/* Legal Links */}
           <div className="flex flex-wrap items-center gap-6 text-sm">
-            <a href="#" className="text-gray-400 hover:text-white transition-colors">Privacy Policy</a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors">Terms of Use</a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors">Sales and Refunds</a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors">Legal</a>
-            <a href="#" className="text-gray-400 hover:text-white transition-colors">Site Map</a>
+            <a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Privacy Policy</a>
+            <a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Terms of Use</a>
+            <a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Sales and Refunds</a>
+            <a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Legal</a>
+            <a href="#" className="text-gray-400 font-roboto hover:text-white transition-colors">Site Map</a>
           </div>
 
           {/* Social Links */}
