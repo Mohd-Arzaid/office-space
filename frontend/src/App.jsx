@@ -1027,7 +1027,7 @@ const FooterSection = () => {
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           {/* Copyright */}
-          <div className="text-gray-400 text-sm">
+          <div className="text-gray-400 font-roboto text-sm">
             © 2024 All Rights Reserved
           </div>
 
